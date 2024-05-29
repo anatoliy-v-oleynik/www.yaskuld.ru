@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<list name="friends" css="">
+  <item id="6">
+    <Thumb><![CDATA[home/images/kkif_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[/home/images/kkif.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'><b><a href=''>ККИФ</a></b></font><br><font color='#777777'>URL: </font><font color='#0033CC'><u><a href='http://www.kkif.ru'>http://www.kkif.ru</a></u></font><br><font color='#4C4B4B'>Компания-кредитно ипотечного финансирования</font><br><font color='#4C4B4B'></font>]]></HTML>
+  </item>  
+  <item id="6">
+    <Thumb><![CDATA[home/images/1gb_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[/home/images/1gb.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'><b><a href=''>1GB</a></b></font><br><font color='#777777'>URL: </font><font color='#0033CC'><u><a href='http://www.1gb.ru'>http://www.1gb.ru</a></u></font><br><font color='#4C4B4B'>Дом для вашего сайта.</font><br><font color='#4C4B4B'></font>]]></HTML>
+  </item>
+  <item id="6">
+    <Thumb><![CDATA[home/images/mail_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[/home/images/mail.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'><b><a href=''>@Mail.ru</a></b></font><br><font color='#777777'>URL: </font><font color='#0033CC'><u><a href='http://www.mail.ru'>http://www.mail.ru</a></u></font><br><font color='#4C4B4B'>Национальная почтовая служба.</font>]]></HTML>
+  </item>
+  <item id="6">
+    <Thumb><![CDATA[home/images/yandex_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[/home/images/yandex.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'><b><a href=''>Яндекс</a></b></font><br><font color='#777777'>URL: </font><font color='#0033CC'><u><a href='http://www.yandex.ru'>http://www.yandex.ru</a></u></font><br><font color='#4C4B4B'>Найдется все.</font>]]></HTML>
+  </item>
+</list>

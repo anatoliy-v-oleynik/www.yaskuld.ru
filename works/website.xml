@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<list name="web site" css="">
+  <item id="2">
+    <Thumb><![CDATA[works/images/monarch/image001_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[works/images/monarch/image001.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>01.01.2008 <b><a href=''>"Обувь MONARCH"</a></b></font><br><font color='#4C4B4B'>Flash-сайт</font>]]></HTML>
+  </item>
+  <item id="1">
+    <Thumb><![CDATA[works/images/yaskuld/image002_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[works/images/yaskuld/image002.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>11.03.2008 <b><a href=''>"Студия дизайна YASKULD.ru"</a></b></font><br><font color='#4C4B4B'>Flash-сайт</font>]]></HTML>
+  </item>  
+</list>

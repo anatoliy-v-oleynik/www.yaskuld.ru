@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<list>
+  <banner>
+    <location>banners/cardaction.swf</location>
+    <duration>30000</duration>
+  </banner>
+  <banner>
+    <location>banners/cardaction.swf</location>
+    <duration>10000</duration>
+  </banner>  
+</list>

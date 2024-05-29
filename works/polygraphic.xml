@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<list name="poligraphic" css="">
+  <item id="7">
+    <Thumb><![CDATA[works/images/kkif/image001_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[/works/images/kkif/image001.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>18.11.2007 <b><a href=''>ККИФ</a></b></font><br><font color='#777777'>URL: </font><font color='#0033CC'><u><a href='http://www.kkif.ru'>http://www.kkif.ru</a></u></font><br><font color='#4C4B4B'>Разработка логотипа компани занимающейся кредита-ипотечным финансированием</font>]]></HTML>
+  </item>
+  
+  <item id="5">
+    <Thumb><![CDATA[works/images/gmc/image002_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[/works/images/gmc/image002.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>15.10.2007 <b><a href=''>402 Гидрометеорологический центр</a></b></font><br><font color='#777777'>URL: </font><font color='#0033CC'><u><a href=''></a></u></font><br><font color='#4C4B4B'>Потчетная грамота</font>]]></HTML>
+  </item>
+  <item id="5">
+    <Thumb><![CDATA[works/images/gmc/image001_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[/works/images/gmc/image001.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>15.01.2007 <b><a href=''>402 Гидрометеорологический центр</a></b></font><br><font color='#777777'>URL: </font><font color='#0033CC'><u><a href=''></a></u></font><br><font color='#4C4B4B'>Календарь 2007</font>]]></HTML>
+  </item>
+  
+  <item id="4">
+    <Thumb><![CDATA[works/images/nevalyashka/image001_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[/works/images/nevalyashka/image001.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>15.11.2006 <b><a href=''>nevalyshka@mail.ru</a></b></font><br><font color='#4C4B4B'>Банер</font>]]></HTML>
+  </item>  
+  <item id="3">
+    <Thumb><![CDATA[works/images/dinamika/image003_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[works/images/dinamika/image003.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>25.11.2006 <b><a href=''>"Динамика"</a></b></font><br><font color='#4C4B4B'>календарь домик, настенный календарь, банер, прайс</font>]]></HTML>
+  </item>
+  <item id="3">
+    <Thumb><![CDATA[works/images/dinamika/image002_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[works/images/dinamika/image002.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>25.11.2006 <b><a href=''>"Динамика"</a></b></font><br><font color='#4C4B4B'>календарь домик, настенный календарь, банер, прайс</font>]]></HTML>
+  </item>
+  <item id="3">
+    <Thumb><![CDATA[works/images/dinamika/image001_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[works/images/dinamika/image001.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>25.11.2006 <b><a href=''>"Динамика"</a></b></font><br><font color='#4C4B4B'>календарь домик, настенный календарь, банер, прайс</font>]]></HTML>
+  </item>
+  <item id="2">
+    <Thumb><![CDATA[works/images/autosnab/image001_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[works/images/autosnab/image001.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>15.11.2006 <b><a href=''>Автоснаб</a></b></font><br><font color='#4C4B4B'>Разработка дизайна наклейки на автомобиль газель</font>]]></HTML>
+  </item>
+  <item id="1">
+    <Thumb><![CDATA[works/images/vkusnoedov/image003_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[works/images/vkusnoedov/image003.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>8.11.2006 <b><a href=''>"Вкусноедов"</a></b></font><br><font color='#4C4B4B'>Промостол</font>]]></HTML>
+  </item>
+  <item id="1">
+    <Thumb><![CDATA[works/images/vkusnoedov/image002_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[works/images/vkusnoedov/image002.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>8.11.2006 <b><a href=''>"Вкусноедов"</a></b></font><br><font color='#4C4B4B'>Календарь</font>]]></HTML>
+  </item>  
+  <item id="1">
+    <Thumb><![CDATA[works/images/vkusnoedov/image001_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[works/images/vkusnoedov/image001.jpg]]></Picture>
+    <HTML><![CDATA[<font color='#2B4F86'>8.11.2006 <b><a href=''>"Вкусноедов"</a></b></font><br><font color='#4C4B4B'>Баннер</font>]]></HTML>
+  </item>
+</list>

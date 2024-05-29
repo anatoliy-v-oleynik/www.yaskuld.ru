@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<list name="multimedia" css="">
+  <item id="2">
+    <Thumb><![CDATA[works/images/yaskuld/image004_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[works/images/yaskuld/image004.jpg]]></Picture>
+    <SWF><![CDATA[works/images/yaskuld/image004.swf]]></SWF>
+    <HTML><![CDATA[<font color='#2B4F86'>08.03.2008 <b><a href=''>"YASKULD.ru"</a></b></font><br><font color='#4C4B4B'>Flash-открытка к 8 марта</font>]]></HTML>
+  </item>
+  <item id="1">
+    <Thumb><![CDATA[works/images/yaskuld/image003_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[works/images/yaskuld/image003.jpg]]></Picture>
+    <SWF><![CDATA[works/images/yaskuld/image003.swf]]></SWF>
+    <HTML><![CDATA[<font color='#2B4F86'>23.02.2008 <b><a href=''>"YASKULD.ru"</a></b></font><br><font color='#4C4B4B'>Flash-открытка к 23 февраля</font>]]></HTML>
+  </item>
+  <item id="6">
+    <Thumb><![CDATA[works/images/retailec/image001_thumb.jpg]]></Thumb>
+    <Picture><![CDATA[/works/images/retailec/image001.jpg]]></Picture>
+    <SWF><![CDATA[works/images/retailec/image001.swf]]></SWF>
+    <HTML><![CDATA[<font color='#2B4F86'>28.01.2008 <b><a href=''>RetailE&C</a></b></font><br><font color='#777777'>URL: </font><font color='#0033CC'><u><a href='http://www.retailec.ru'>http://www.retailec.ru</a></u></font><br><font color='#4C4B4B'>Презентационный материал програмного продукта RE&C CT-Broker</font>]]></HTML>
+  </item>  
+</list>

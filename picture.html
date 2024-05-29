@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>Наши работы</title>
+<style type=text/css>
+    body,img{margin:0px;padding:0px;border:0px;text-align:center;vertical-align:center;}
+</style>
+<script type="text/javascript">
+    var img;
+    function AdjustWin()
+    {
+      if(img.complete)
+      {
+        document.images[0].src = img.src;
+        resizeTo(document.images[0].width+8, document.images[0].height+46);
+        if(!document.images[0].timer_id)
+        {
+            window.clearInterval(document.images[0].timer_id);
+        }
+      }
+      else if(!document.images[0].timer_id)
+      {
+        document.images[0].timer_id = window.setInterval('AdjustWin();',100);
+      }
+    }
+
+    function onWinLoad()
+    {
+      resizeTo(200,200);
+      if(location.search.length>1)
+      {
+        img=new Image;
+        img.src=unescape(location.search.substring(1,location.search.length));
+      }
+      else
+      {
+        window.close();
+      }
+      AdjustWin();
+    }
+
+    if (typeof document.attachEvent!='undefined')
+    {
+        window.attachEvent('onload',onWinLoad);
+    }
+    else
+    {
+        window.addEventListener('load',onWinLoad,false);
+    }
+</script>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<img src="loading.gif" alt="Идет загрузка картинки"/>
+</body>
+</html> 
